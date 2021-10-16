@@ -1,0 +1,14 @@
+*.breadcrumb
+*.junit
+**/__pycache__
+build
+nmsis_release
+Library
+*.elf
+*.diss
+*.dump
+*.hex
+*.a
+*.bin
+*.dasm
+*.o
